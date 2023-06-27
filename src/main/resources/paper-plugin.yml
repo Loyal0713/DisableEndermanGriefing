@@ -1,0 +1,6 @@
+name: DisableEndermanGriefing
+version: '${version}'
+main: org.loyal0713.disableendermangriefing.DisableEndermanGriefing
+api-version: '1.19'
+authors: [ Loyal0713 ]
+description: Plugin that disables Enderman griefing while still allowing other entity griefing (villager harvesting crops, creeper explosions, etc)
